@@ -1,4 +1,4 @@
-# correcao_coordenadas
+# Correção de cooordenadas de poligonais
 Correção de coordenadas geográficas obtidas por topografia com medição de distâncias
 
 Em campos de topografia realizados com estações total ou nível, é possivel que ocorram erros da medição das distâncias entre as estações. Considerando que o erro de medição de um ponto para outro irá acumular, é possível que, ao fechar a poligonal, a medição da coordenada da base esteja incorreta.
